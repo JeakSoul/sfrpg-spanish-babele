@@ -1,9 +1,8 @@
 <p align="center">
 <a href='https://paizo.com/starfinder'><img src="https://www.black-book-editions.fr/contenu/partners/tonyb/image/starfinder_1000x200.png" border='none'></a>
-</p>
-
 <a href='https://foundryvtt.com'><img src="https://foundryvtt.wiki/fvtt-solid-512.png" width='128' height='128' border='none'></a></td>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
 
 </p>
 
