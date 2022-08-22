@@ -26,13 +26,13 @@
   "styles": [],
   "packs": [],
   "languages": [{
-  	"lang": "es",
+  	"lang": "spa",
   	"name": "Español",
   	"path": "lang/es.json"  	
   }],
   "system": "sfrpg",
   "systemVersion": "0.9.0.0",
   "url": "https://github.com/JeakSoul/sfrpg-spanish-babele",
-  "manifest": "https://github.com/JeakSoul/sfrpg-spanish-babele/blob/030966c63759acaf627eabc4241ba96b0e31c342/module.json",
+  "manifest": "https://raw.githubusercontent.com/JeakSoul/sfrpg-spanish-babele/030966c63759acaf627eabc4241ba96b0e31c342/module.json",
   "download": "https://github.com/JeakSoul/sfrpg-spanish-babele/sfrpg-spanish-babele.zip"
 }
