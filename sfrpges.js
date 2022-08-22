@@ -12,5 +12,5 @@ Hooks.on('init', () => {
 });
 
 Hooks.once("babele.ready", () => {
-    game.sfrpg.ConditionManager.initialize();
+    game.foundryvtt-starfinder.ConditionManager.initialize();
 });
