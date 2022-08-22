@@ -1,0 +1,38 @@
+{
+	"label": "Hazards",
+	"entries": {
+		"Disintegration Chamber Trap": {
+			"name": "Disintegration Chamber Trap"
+		},
+		"Explosive Detonation Trap": {
+			"name": "Explosive Detonation Trap"
+		},
+		"Hacker's Curse Trap": {
+			"name": "Hacker's Curse Trap"
+		},
+		"Jolting Console Trap": {
+			"name": "Jolting Console Trap"
+		},
+		"Laser Blast Trap": {
+			"name": "Laser Blast Trap"
+		},
+		"Mind Spores Trap": {
+			"name": "Mind Spores Trap"
+		},
+		"Nanoflechette Launcher Trap": {
+			"name": "Nanoflechette Launcher Trap"
+		},
+		"Obedience Implant Trap": {
+			"name": "Obedience Implant Trap"
+		},
+		"Pit Trap": {
+			"name": "Pit Trap"
+		},
+		"Soul Upload Trap": {
+			"name": "Soul Upload Trap"
+		},
+		"Trash Compactor Trap": {
+			"name": "Trash Compactor Trap"
+		}
+	}
+}

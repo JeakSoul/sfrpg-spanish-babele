@@ -1,0 +1,176 @@
+{
+	"label": "Vehicles",
+	"entries": {
+		"Acid Auger": {
+			"name": "Acid Auger"
+		},
+		"Aerial Mining Rig": {
+			"name": "Aerial Mining Rig"
+		},
+		"Airspace Defender": {
+			"name": "Airspace Defender"
+		},
+		"All-Terrain Transport": {
+			"name": "All-Terrain Transport"
+		},
+		"Aquatic Crawler": {
+			"name": "Aquatic Crawler"
+		},
+		"Armored Null-Space Transport": {
+			"name": "Armored Null-Space Transport"
+		},
+		"Armored Transport": {
+			"name": "Armored Transport"
+		},
+		"Assault Enercopter": {
+			"name": "Assault Enercopter"
+		},
+		"Asteroid Borer": {
+			"name": "Asteroid Borer"
+		},
+		"Attack Sub": {
+			"name": "Attack Sub"
+		},
+		"Basic Enercycle": {
+			"name": "Basic Enercycle"
+		},
+		"Battle Chariot": {
+			"name": "Battle Chariot"
+		},
+		"Biped Walker": {
+			"name": "Biped Walker"
+		},
+		"Breacher": {
+			"name": "Breacher"
+		},
+		"Cherav": {
+			"name": "Cherav"
+		},
+		"Drop Pod": {
+			"name": "Drop Pod"
+		},
+		"Exploration Buggy": {
+			"name": "Exploration Buggy"
+		},
+		"Goblin Junkcycle": {
+			"name": "Goblin Junkcycle"
+		},
+		"Heavy Assault Buggy": {
+			"name": "Heavy Assault Buggy"
+		},
+		"Heavy Dropship": {
+			"name": "Heavy Dropship"
+		},
+		"Heavy Walker": {
+			"name": "Heavy Walker"
+		},
+		"Hover Artillery": {
+			"name": "Hover Artillery"
+		},
+		"Hover Pod": {
+			"name": "Hover Pod"
+		},
+		"Hover Tank": {
+			"name": "Hover Tank"
+		},
+		"Hover Truck": {
+			"name": "Hover Truck"
+		},
+		"Hovertrike": {
+			"name": "Hovertrike"
+		},
+		"Kishalee Hoverbike": {
+			"name": "Kishalee Hoverbike"
+		},
+		"Light Hover Tank": {
+			"name": "Light Hover Tank"
+		},
+		"Linecrawler": {
+			"name": "Linecrawler"
+		},
+		"Motorcycle": {
+			"name": "Motorcycle"
+		},
+		"Patrol Dirigible": {
+			"name": "Patrol Dirigible"
+		},
+		"Performance Cruiser": {
+			"name": "Performance Cruiser"
+		},
+		"Police Cruiser": {
+			"name": "Police Cruiser"
+		},
+		"Protector Chariot": {
+			"name": "Protector Chariot"
+		},
+		"Pump-Jet Sub": {
+			"name": "Pump-Jet Sub"
+		},
+		"Quantom Pod": {
+			"name": "Quantom Pod"
+		},
+		"Recon Enercopter": {
+			"name": "Recon Enercopter"
+		},
+		"Sky Chariot": {
+			"name": "Sky Chariot"
+		},
+		"Skyacht": {
+			"name": "Skyacht"
+		},
+		"Skyboat": {
+			"name": "Skyboat"
+		},
+		"Spy Cruiser": {
+			"name": "Spy Cruiser"
+		},
+		"Stealth Enercopter": {
+			"name": "Stealth Enercopter"
+		},
+		"Stealth Enercycle": {
+			"name": "Stealth Enercycle"
+		},
+		"Stealth Sub": {
+			"name": "Stealth Sub"
+		},
+		"Sunskimmer": {
+			"name": "Sunskimmer"
+		},
+		"Survey Walker": {
+			"name": "Survey Walker"
+		},
+		"Tactical Dropship": {
+			"name": "Tactical Dropship"
+		},
+		"Tactical Underminer": {
+			"name": "Tactical Underminer"
+		},
+		"Tactical Walker": {
+			"name": "Tactical Walker"
+		},
+		"Torpedo Minisub": {
+			"name": "Torpedo Minisub"
+		},
+		"Transport Walker": {
+			"name": "Transport Walker"
+		},
+		"Ultimate Hover Carrier": {
+			"name": "Ultimate Hover Carrier"
+		},
+		"Ultralight Turboglider": {
+			"name": "Ultralight Turboglider"
+		},
+		"Urban Cruiser": {
+			"name": "Urban Cruiser"
+		},
+		"War Wagon": {
+			"name": "War Wagon"
+		},
+		"Water Bear": {
+			"name": "Water Bear"
+		},
+		"Wingboard": {
+			"name": "Wingboard"
+		}
+	}
+}

@@ -1,0 +1,36 @@
+{
+  "name": "sfrpg-spanish-babele",
+  "title": "Starfinder - Translations for compendiums (Spanish)",
+  "description": "Traducciones al español de los compendiums de Starfinder usando el modulo de babele",
+  "author": "JeakSoul",
+  "authors": [],
+  "url": "https://github.com/JeakSoul/sfrpg-spanish-babele",
+  "flags": {},
+  "version": "0.0.0",
+  "minimumCoreVersion": "9",
+  "compatibleCoreVersion": "9",
+  "scripts": [
+    "sfrpges.js"
+  ],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [],
+  "system": [
+    "sfrpg"
+  ],
+  "dependencies": [
+    {
+      "name": "babele"
+    },
+    {
+      "name": "lib-wrapper"
+    }
+    ],
+  "socket": false,
+  "download": "https://github.com/javierriveracastro/pf2-spanish-babele/raw/main/pf2-spanish-babele.zip",
+  "manifest": "https://raw.githubusercontent.com/javierriveracastro/pf2-spanish-babele/main/pf2-spanish-babele/module.json",
+  "protected": false,
+  "coreTranslation": false,
+  "library": false
+}

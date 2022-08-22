@@ -1,0 +1,33 @@
+{
+	"label": "Tables",
+	"entries": {
+		"Confusion Table": {
+			"name": "Confusion Table",
+			"description": "If you are not devoted to attacking a target, roll on this table at the beginning of your turn each round to see what you do in that round."
+		},
+		"Critical Fumble: Energy": {
+			"name": "Critical Fumble: Energy"
+		},
+		"Critical Fumble: Extreme": {
+			"name": "Critical Fumble: Extreme"
+		},
+		"Critical Fumble: Kinetic": {
+			"name": "Critical Fumble: Kinetic"
+		},
+		"Critical Fumble: Spell": {
+			"name": "Critical Fumble: Spell"
+		},
+		"Critical Hit: Energy": {
+			"name": "Critical Hit: Energy"
+		},
+		"Critical Hit: Extreme": {
+			"name": "Critical Hit: Extreme"
+		},
+		"Critical Hit: Kinetic": {
+			"name": "Critical Hit: Kinetic"
+		},
+		"Critical Hit: Spell": {
+			"name": "Critical Hit: Spell"
+		}
+	}
+}

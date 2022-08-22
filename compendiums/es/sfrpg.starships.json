@@ -1,0 +1,578 @@
+{
+	"label": "Starships",
+	"entries": {
+		"AAC Dyad": {
+			"name": "AAC Dyad"
+		},
+		"AAC Hoardmaster": {
+			"name": "AAC Hoardmaster"
+		},
+		"Antumbra Overseer": {
+			"name": "Antumbra Overseer"
+		},
+		"Atech Immortal": {
+			"name": "Atech Immortal"
+		},
+		"Atech Resolute": {
+			"name": "Atech Resolute"
+		},
+		"Aurora Yellow Dwarf": {
+			"name": "Aurora Yellow Dwarf"
+		},
+		"Barrow Boneshard": {
+			"name": "Barrow Boneshard"
+		},
+		"Barrow Catacomb": {
+			"name": "Barrow Catacomb"
+		},
+		"Barrow Cenotaph": {
+			"name": "Barrow Cenotaph"
+		},
+		"Barrow Eulogy": {
+			"name": "Barrow Eulogy"
+		},
+		"Barrow Reaper": {
+			"name": "Barrow Reaper"
+		},
+		"Barrow Reliquary": {
+			"name": "Barrow Reliquary"
+		},
+		"Barrow Spectre": {
+			"name": "Barrow Spectre"
+		},
+		"BD514": {
+			"name": "BD514"
+		},
+		"Blackwind Annihilator": {
+			"name": "Blackwind Annihilator"
+		},
+		"Blackwind Sepulcher": {
+			"name": "Blackwind Sepulcher"
+		},
+		"BMC Devastator": {
+			"name": "BMC Devastator"
+		},
+		"BMC Dmolangari": {
+			"name": "BMC Dmolangari"
+		},
+		"BMC Mauler": {
+			"name": "BMC Mauler"
+		},
+		"BMC Predator": {
+			"name": "BMC Predator"
+		},
+		"Brevak Vermelance": {
+			"name": "Brevak Vermelance"
+		},
+		"Citadel Zirval": {
+			"name": "Citadel Zirval"
+		},
+		"CompEnt AEV": {
+			"name": "CompEnt AEV"
+		},
+		"CompEnt Group Defense Frigate": {
+			"name": "CompEnt Group Defense Frigate"
+		},
+		"CompEnt Guardian": {
+			"name": "CompEnt Guardian"
+		},
+		"CompEnt Those Who Are": {
+			"name": "CompEnt Those Who Are"
+		},
+		"CompEnt Windfall": {
+			"name": "CompEnt Windfall"
+		},
+		"Conqueror of Worlds": {
+			"name": "Conqueror of Worlds"
+		},
+		"Dashadz Griffon": {
+			"name": "Dashadz Griffon"
+		},
+		"Dashadz Wayfarer": {
+			"name": "Dashadz Wayfarer"
+		},
+		"Death's Head Charon": {
+			"name": "Death's Head Charon"
+		},
+		"Death's Head Necroglider": {
+			"name": "Death's Head Necroglider"
+		},
+		"Derelict Shade": {
+			"name": "Derelict Shade"
+		},
+		"Dominion Seeder": {
+			"name": "Dominion Seeder"
+		},
+		"Drake (Tier 10)": {
+			"name": "Drake (Tier 10)"
+		},
+		"Drake (Tier 12)": {
+			"name": "Drake (Tier 12)"
+		},
+		"Drake (Tier 2)": {
+			"name": "Drake (Tier 2)"
+		},
+		"Drake (Tier 4)": {
+			"name": "Drake (Tier 4)"
+		},
+		"Drake (Tier 6)": {
+			"name": "Drake (Tier 6)"
+		},
+		"Drake (Tier 8)": {
+			"name": "Drake (Tier 8)"
+		},
+		"Driftmaven": {
+			"name": "Driftmaven"
+		},
+		"EJ Corp Negotiator": {
+			"name": "EJ Corp Negotiator"
+		},
+		"Emerald Empyrean": {
+			"name": "Emerald Empyrean"
+		},
+		"EP Stalwart": {
+			"name": "EP Stalwart"
+		},
+		"Excoriation Combine Alcazar": {
+			"name": "Excoriation Combine Alcazar"
+		},
+		"Excoriation Combine Jezail": {
+			"name": "Excoriation Combine Jezail"
+		},
+		"Gorgon (Tier 10)": {
+			"name": "Gorgon (Tier 10)"
+		},
+		"Gorgon (Tier 12)": {
+			"name": "Gorgon (Tier 12)"
+		},
+		"Gorgon (Tier 2)": {
+			"name": "Gorgon (Tier 2)"
+		},
+		"Gorgon (Tier 4)": {
+			"name": "Gorgon (Tier 4)"
+		},
+		"Gorgon (Tier 6)": {
+			"name": "Gorgon (Tier 6)"
+		},
+		"Gorgon (Tier 8)": {
+			"name": "Gorgon (Tier 8)"
+		},
+		"Gray Collection Saucer": {
+			"name": "Gray Collection Saucer"
+		},
+		"Gray Monitor Capsule": {
+			"name": "Gray Monitor Capsule"
+		},
+		"Gray Mothership": {
+			"name": "Gray Mothership"
+		},
+		"Gray Research Vessel": {
+			"name": "Gray Research Vessel"
+		},
+		"Gray Watcher Pod": {
+			"name": "Gray Watcher Pod"
+		},
+		"Hivonyx Ambassador": {
+			"name": "Hivonyx Ambassador"
+		},
+		"Hivonyx Titan Hauler": {
+			"name": "Hivonyx Titan Hauler"
+		},
+		"Idaran Keris": {
+			"name": "Idaran Keris"
+		},
+		"Idaran Millennia": {
+			"name": "Idaran Millennia"
+		},
+		"Idaran Peregrinasi": {
+			"name": "Idaran Peregrinasi"
+		},
+		"Idaran Saga": {
+			"name": "Idaran Saga"
+		},
+		"Idaran Thunderbolt": {
+			"name": "Idaran Thunderbolt"
+		},
+		"Idaran Vanserai": {
+			"name": "Idaran Vanserai"
+		},
+		"Idaran Voidrunner": {
+			"name": "Idaran Voidrunner"
+		},
+		"Infernex Burning Nail": {
+			"name": "Infernex Burning Nail"
+		},
+		"Infernex Interdictus": {
+			"name": "Infernex Interdictus"
+		},
+		"Infernex Justiciar": {
+			"name": "Infernex Justiciar"
+		},
+		"Infernex Keep Diabolical": {
+			"name": "Infernex Keep Diabolical"
+		},
+		"Infernex Unshakable": {
+			"name": "Infernex Unshakable"
+		},
+		"Inheritorworks Brightsword": {
+			"name": "Inheritorworks Brightsword"
+		},
+		"Inheritorworks Cathedralship": {
+			"name": "Inheritorworks Cathedralship"
+		},
+		"Inheritorworks Crusader": {
+			"name": "Inheritorworks Crusader"
+		},
+		"Inheritorworks Javelin": {
+			"name": "Inheritorworks Javelin"
+		},
+		"Inheritorworks Redeemer": {
+			"name": "Inheritorworks Redeemer"
+		},
+		"Inheritorworks Shieldcraft": {
+			"name": "Inheritorworks Shieldcraft"
+		},
+		"Inheritorworks Truestrike": {
+			"name": "Inheritorworks Truestrike"
+		},
+		"KC Golarion-Class Battleship": {
+			"name": "KC Golarion-Class Battleship"
+		},
+		"KC K-51 Sky Fisher": {
+			"name": "KC K-51 Sky Fisher"
+		},
+		"Kevolari Venture": {
+			"name": "Kevolari Venture"
+		},
+		"Klokworx Drone": {
+			"name": "Klokworx Drone"
+		},
+		"Klokworx Nexus": {
+			"name": "Klokworx Nexus"
+		},
+		"Klokworx Prism": {
+			"name": "Klokworx Prism"
+		},
+		"Lost Cause": {
+			"name": "Lost Cause"
+		},
+		"Merciless Blade": {
+			"name": "Merciless Blade"
+		},
+		"Modified ATech Bulwark": {
+			"name": "Modified ATech Bulwark"
+		},
+		"Multifold G7 Autohauler": {
+			"name": "Multifold G7 Autohauler"
+		},
+		"Multifold Industries Harvester": {
+			"name": "Multifold Industries Harvester"
+		},
+		"Multifold Seedship": {
+			"name": "Multifold Seedship"
+		},
+		"Naginata-Class Attack Vessel": {
+			"name": "Naginata-Class Attack Vessel"
+		},
+		"Nebulor Outfitters Starhopper": {
+			"name": "Nebulor Outfitters Starhopper"
+		},
+		"Nebulor Skymedic": {
+			"name": "Nebulor Skymedic"
+		},
+		"New Horizon Borealis": {
+			"name": "New Horizon Borealis"
+		},
+		"Norikama Defrex": {
+			"name": "Norikama Defrex"
+		},
+		"Norikama Dropship": {
+			"name": "Norikama Dropship"
+		},
+		"Norikama Reliant": {
+			"name": "Norikama Reliant"
+		},
+		"Norikama Valkyrie": {
+			"name": "Norikama Valkyrie"
+		},
+		"Nova Witch": {
+			"name": "Nova Witch"
+		},
+		"Oliphaunt": {
+			"name": "Oliphaunt"
+		},
+		"Opulos Ambassador": {
+			"name": "Opulos Ambassador"
+		},
+		"Opulos Drift Cruiser": {
+			"name": "Opulos Drift Cruiser"
+		},
+		"Opulos Opulence": {
+			"name": "Opulos Opulence"
+		},
+		"Pegasus (Tier 10)": {
+			"name": "Pegasus (Tier 10)"
+		},
+		"Pegasus (Tier 12)": {
+			"name": "Pegasus (Tier 12)"
+		},
+		"Pegasus (Tier 2)": {
+			"name": "Pegasus (Tier 2)"
+		},
+		"Pegasus (Tier 4)": {
+			"name": "Pegasus (Tier 4)"
+		},
+		"Pegasus (Tier 6)": {
+			"name": "Pegasus (Tier 6)"
+		},
+		"Pegasus (Tier 8)": {
+			"name": "Pegasus (Tier 8)"
+		},
+		"Protector Accord": {
+			"name": "Protector Accord"
+		},
+		"Pyre Spike Station": {
+			"name": "Pyre Spike Station"
+		},
+		"Pyre Woebringer": {
+			"name": "Pyre Woebringer"
+		},
+		"Raxilite Crown Canopy": {
+			"name": "Raxilite Crown Canopy"
+		},
+		"Raxilite Doon": {
+			"name": "Raxilite Doon"
+		},
+		"Raxilite Gowan": {
+			"name": "Raxilite Gowan"
+		},
+		"Redshift Pleasure Sail": {
+			"name": "Redshift Pleasure Sail"
+		},
+		"Redshift Revolution X-62": {
+			"name": "Redshift Revolution X-62"
+		},
+		"Reptoid Chameleon": {
+			"name": "Reptoid Chameleon"
+		},
+		"Reptoid Changeling": {
+			"name": "Reptoid Changeling"
+		},
+		"Reptoid Instigator": {
+			"name": "Reptoid Instigator"
+		},
+		"Reptoid Nest Platform": {
+			"name": "Reptoid Nest Platform"
+		},
+		"Ringworks Peacebringer": {
+			"name": "Ringworks Peacebringer"
+		},
+		"Ringworks Sentinel": {
+			"name": "Ringworks Sentinel"
+		},
+		"Ringworks Specter": {
+			"name": "Ringworks Specter"
+		},
+		"Ringworks Wanderer": {
+			"name": "Ringworks Wanderer"
+		},
+		"Roselight Oracle": {
+			"name": "Roselight Oracle"
+		},
+		"Rust Bug": {
+			"name": "Rust Bug"
+		},
+		"Sanjaval Palanquin": {
+			"name": "Sanjaval Palanquin"
+		},
+		"Sanjaval Redsun": {
+			"name": "Sanjaval Redsun"
+		},
+		"Sanjaval Vagabond": {
+			"name": "Sanjaval Vagabond"
+		},
+		"SC Farseer": {
+			"name": "SC Farseer"
+		},
+		"SC Metropolis": {
+			"name": "SC Metropolis"
+		},
+		"SC Vaultship": {
+			"name": "SC Vaultship"
+		},
+		"SDF D-127 Defensive Carrier": {
+			"name": "SDF D-127 Defensive Carrier"
+		},
+		"SDF Rampart": {
+			"name": "SDF Rampart"
+		},
+		"Shade Spiral": {
+			"name": "Shade Spiral"
+		},
+		"Shalar": {
+			"name": "Shalar"
+		},
+		"Sivv Defense Drone": {
+			"name": "Sivv Defense Drone"
+		},
+		"Sivv Drone Destroyer": {
+			"name": "Sivv Drone Destroyer"
+		},
+		"Sivv Drone Interceptor": {
+			"name": "Sivv Drone Interceptor"
+		},
+		"Skyward Glory": {
+			"name": "Skyward Glory"
+		},
+		"Sledge-class Boarding Vessel": {
+			"name": "Sledge-class Boarding Vessel"
+		},
+		"Sov-El Korinath": {
+			"name": "Sov-El Korinath"
+		},
+		"Sovereign Dominator": {
+			"name": "Sovereign Dominator"
+		},
+		"Sovereign Harrier": {
+			"name": "Sovereign Harrier"
+		},
+		"Sovereign Monitor": {
+			"name": "Sovereign Monitor"
+		},
+		"Sovereign Sumpter": {
+			"name": "Sovereign Sumpter"
+		},
+		"Sovereign Vindicator": {
+			"name": "Sovereign Vindicator"
+		},
+		"Star-Nambulance Void-Eater": {
+			"name": "Star-Nambulance Void-Eater"
+		},
+		"Starbrand": {
+			"name": "Starbrand"
+		},
+		"Starhive Drone MK III": {
+			"name": "Starhive Drone MK III"
+		},
+		"Starhive Vespiar": {
+			"name": "Starhive Vespiar"
+		},
+		"Steward Banshee FA Frigate": {
+			"name": "Steward Banshee FA Frigate"
+		},
+		"Sun Diver": {
+			"name": "Sun Diver"
+		},
+		"Sunrise Maiden": {
+			"name": "Sunrise Maiden"
+		},
+		"Surnoch's Tooth": {
+			"name": "Surnoch's Tooth"
+		},
+		"Suskillon Aurora": {
+			"name": "Suskillon Aurora"
+		},
+		"Suskillon Whip": {
+			"name": "Suskillon Whip"
+		},
+		"Sword-class Attack Vessel": {
+			"name": "Sword-class Attack Vessel"
+		},
+		"Terminator Slingshot": {
+			"name": "Terminator Slingshot"
+		},
+		"Terminator Star Drake": {
+			"name": "Terminator Star Drake"
+		},
+		"Terminus Wild": {
+			"name": "Terminus Wild"
+		},
+		"Tetrad Caravel": {
+			"name": "Tetrad Caravel"
+		},
+		"Thaumtech Cairncarver": {
+			"name": "Thaumtech Cairncarver"
+		},
+		"Thaumtech Omenbringer": {
+			"name": "Thaumtech Omenbringer"
+		},
+		"UC Arkship": {
+			"name": "UC Arkship"
+		},
+		"UC Bloom": {
+			"name": "UC Bloom"
+		},
+		"UC Gardenship": {
+			"name": "UC Gardenship"
+		},
+		"UC Gleaner": {
+			"name": "UC Gleaner"
+		},
+		"UC Liana": {
+			"name": "UC Liana"
+		},
+		"UC Librama": {
+			"name": "UC Librama"
+		},
+		"UC Pod": {
+			"name": "UC Pod"
+		},
+		"UC Rhizome": {
+			"name": "UC Rhizome"
+		},
+		"UIE Hiveguard": {
+			"name": "UIE Hiveguard"
+		},
+		"UIE Petaltail": {
+			"name": "UIE Petaltail"
+		},
+		"Ulrikka RC-HPR": {
+			"name": "Ulrikka RC-HPR"
+		},
+		"Vanguard Comet": {
+			"name": "Vanguard Comet"
+		},
+		"Vanguard Exsanguinator": {
+			"name": "Vanguard Exsanguinator"
+		},
+		"Vanguard Parapet": {
+			"name": "Vanguard Parapet"
+		},
+		"Vanguard Regnant": {
+			"name": "Vanguard Regnant"
+		},
+		"Vanguard Sanctum": {
+			"name": "Vanguard Sanctum"
+		},
+		"Vanguard Voidsweeper": {
+			"name": "Vanguard Voidsweeper"
+		},
+		"Velstrac Corvette": {
+			"name": "Velstrac Corvette"
+		},
+		"Velstrac Tormentor": {
+			"name": "Velstrac Tormentor"
+		},
+		"Vindicas Enforcer": {
+			"name": "Vindicas Enforcer"
+		},
+		"Vindicas Punisher": {
+			"name": "Vindicas Punisher"
+		},
+		"Vindicas Tyrant": {
+			"name": "Vindicas Tyrant"
+		},
+		"White Wind": {
+			"name": "White Wind"
+		},
+		"Wild Magic": {
+			"name": "Wild Magic"
+		},
+		"Wintermourn": {
+			"name": "Wintermourn"
+		},
+		"Zoaphorix": {
+			"name": "Zoaphorix"
+		}
+	}
+}
